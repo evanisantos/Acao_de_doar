@@ -33,7 +33,7 @@
 
 	div#logo{
 		float: left;
-		width:44%;
+		width:52%;
 	}	
 
 	nav ul#ulMenu{
@@ -94,15 +94,15 @@
 		text-decoration: none;
 	}
 
-	#toys, #clothes, #money, #book, #higiene, #moveis {
+	#toys, #clothes, #clear, #book, #higiene, #moveis {
 		margin: 0 1% 1% 0;
 	}
 
-	#food, #voluntario{
+	#food, #eletronicos{
 		margin: 0 0 1% 0;
 	}
 
-	#toys, #money, #higiene, #voluntario{
+	#toys, #clear, #higiene, #eletronicos{
 		background-color: #340244;
 	}
 
